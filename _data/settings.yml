@@ -52,8 +52,8 @@ portfolios_settings:
     link: "#"
 
 cta_settings:  
-  title: Have Any Creative Project
-  description: We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure
+  title: We transfer your idea into product
+  description: You may not have the schematic and PCB design. We develop the hardware to make your own inventions born. Architecture, schematics, 3D enclosure for injection molding, and more!
   image: /assets/images/cta-text.png
   button:
     name: "meet with us"
