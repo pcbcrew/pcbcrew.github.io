@@ -1,10 +1,10 @@
 teams_settings:  
   title: our team member
-  description: Meet Our Most Creative Minds That’s Are Professional
+  description: Meet Our Most Creative Engineers That Are Professional
 
 blogs_settings:  
   title: News & blog
-  description: Latest Articles For New Project
+  description: Latest Articles For PCB & Electronics
   button:
     name: "view all news"
     link: "/blog/"
@@ -19,31 +19,31 @@ videos_settings:
 
 services_settings:  
   title: About Us
-  description: Most Creative Agency For Your Project
+  description: Get Better Chinese PCBA Manufacturing & Design
 
 projects_settings:  
   title: company fact
-  description: Our Teams Achivement Journey
+  description: Our Manufacturing & Design Journey
   button:
     name: "get started "
     link: "#"
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
-      name: "Project completed"
-      count: 6320
+      name: "PCBA order completed"
+      count: 120
     - icon: '<i class="fas fa-life-ring"></i>'
-      name: "Satisfied Clients"
-      count: 8563
+      name: "Schematics & PCB design"
+      count: 58
     - icon: '<i class="fas fa-trophy"></i>'
-      name: "Awards Won"
-      count: 963
+      name: "3D enclosure design"
+      count: 22
     - icon: '<i class="fas fa-universal-access"></i>'
-      name: "Expert Team Member"
-      count: 4975
+      name: "Full Product Development"
+      count: 8
 
 portfolios_settings:  
   title: About Us
-  description: Most Creative Agency For Your Project
+  description: Get Better Chinese PCBA Manufacturing & Design
   button:
     name: "View more"
     link: "#"
