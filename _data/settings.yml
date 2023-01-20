@@ -30,16 +30,16 @@ projects_settings:
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
       name: "PCBA order completed"
-      count: 120
+      count: 1120
     - icon: '<i class="fas fa-life-ring"></i>'
       name: "Schematics & PCB design"
-      count: 58
+      count: 258
     - icon: '<i class="fas fa-trophy"></i>'
       name: "3D enclosure design"
-      count: 22
+      count: 122
     - icon: '<i class="fas fa-universal-access"></i>'
       name: "Full Product Development"
-      count: 8
+      count: 48
 
 portfolios_settings:  
   title: About Us
@@ -77,17 +77,17 @@ abouts_settings:
   image: "/assets/images/about-us/1.png"
   image2: "/assets/images/about-us/2.png"
   text: A
-  text2: Avoids pleasure itself, because it is pleasure, but because those who do not know how to pursuetw pleasure ration counter consequences that ares extremely painful. Nor again is tanyone who loves or pursues or desires to obtain pain
+  text2: PCBCrew is the premier provider of custom hardware development and manufacturing solutions. We provide everything you need to create the perfect circuit board, from schematic design to PCB fabrication, assembly, and firmware/software development.
   list:
-    - item: Web Design
+    - item: PCB Fabrication & Assembly
       link: "#"
-    - item: Web Development
+    - item: Schematics & PCB Design
       link: "#"
-    - item: Graphics Arts
+    - item: 3D Enclosure Design
       link: "#"
-    - item: Product Marketing
+    - item: Firmware Development
       link: "#"
-    - item: User Research
+    - item: Box Assembly
       link: "#"
   button:
     name: "Contact Us"
