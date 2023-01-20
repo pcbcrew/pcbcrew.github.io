@@ -1,11 +1,15 @@
 ---
-title: "Data Analysis"
+title: "PCB Assembly"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
 
-<p>Inventore veritatis et quasi beata vitae dicta sunt explicabo. Neenms ipsam voluptatem voluptas Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus et reiciendis molestiae corporis aliquam quos quidem sit, natus magnam sint quam voluptatibus ipsum, ab laudantium aut velit quibusdam cumque tenetur dolorem nesciunt nostrum eius ipsam quo officia! Suscipit ex, esse. Consequuntur doloribus laborum, molestiae, consectetur hic, labore perspiciatis ipsam ex explicabo temporibus ad fugit doloremque inventore assumenda! Laboriosam quidem asperiores quas accusamus ab. Officiis ipsa eligendi autem nobis, doloremque iste deleniti ut quia, voluptas eos tempore! Ipsum quo, asperiores at ut. Sed blanditiis, officiis tempore quidem voluptate hic possimus doloremque dolor rerum recusandae repellendus est, nisi vero repudiandae necessitatibus vitae sapiente expedita quia nobis. Porro repellendus praesentium iste aut enim consectetur illum veritatis repudiandae dignissimos harum nobis, tenetur ad aperiam, numquam. Commodi tenetur totam et illum, alias possimus corporis ducimus perspiciatis odit, eos placeat, voluptatem distinctio iusto beatae. Facere tempora accusamus aspernatur distinctio in excepturi molestiae necessitatibus non, neque quos.</p>
+<p>We have partnered with the best PCBA manufacturers in China to ensure that your product is made with the best quality and highest efficiency. Our skilled engineers will handle the entire assembly process, from soldering to testing.</p>
 
-<h4 class="py-2">Service Graphic Design</h4>
+<h4 class="py-2">Our Approach</h4>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto modi ratione iure eaque, molestias asperiores nobis. Odit quae, fuga, nobis magni aperiam molestiae odio earum quos. Provident, impedit, ut. Magnam accusantium a sunt placeat quidem veniam eaque ipsam eligendi, reiciendis doloribus ducimus laborum quisquam dolorum harum, neque nulla enim cum quis dolore quibusdam maiores. Distinctio fugiat necessitatibus provident doloribus deleniti, ad exercitationem nobis, pariatur assumenda numquam temporibus perspiciatis libero cupiditate molestiae architecto tempora voluptate delectus maxime ipsa, eaque a iure adipisci cumque tenetur! Molestias neque voluptas consequatur, ipsam distinctio nisi asperiores deserunt commodi ratione inventore cumque perferendis culpa aperiam cupiditate dolore iure magnam repellat pariatur consequuntur quo sed dolorum possimus hic. Sed ab vitae repellendus. Labore quod harum nisi a tenetur, recusandae saepe, officiis sit distinctio incidunt. Iste dolorem facere vel aliquam eaque dolor eligendi accusamus laborum illum recusandae iure sed sit quae, harum provident autem amet ipsa doloremque aspernatur inventore in. Rem rerum tempora voluptate dolorum eveniet obcaecati architecto.</p>
+<p>Our factory-less approach ensures that we can customize each product to the highest quality standards. We partner with the leading PCB manufacturers in China and carefully analyze each customer’s design to choose the best possible factory for every product. Our engineers have been part of the industry for over 10 years and have developed solutions for industries such as IoT, automobile, medical and industrial.</p>
+
+<h4 class="py-2">Our Goal</h4>
+
+<p>At PCBCrew, we understand that your product is an integral part of your business and we strive to provide the highest quality solutions. We are committed to delivering products that are of the highest standard and that are designed to meet your specifications. With our experienced team of professionals, you can rest assured that your product will be delivered on time and to the highest quality standards.</p>
