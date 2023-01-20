@@ -1,6 +1,6 @@
 ---
 title: "Schematics & PCB Design"
-icon: '<i class="fas fa-pen-ruler"></i>'
+icon: '<i class="fas fa-pencil"></i>'
 layout: service
 ---
 
