@@ -1,6 +1,6 @@
 ---
 title: "PCB Assembly"
-icon: '<i class="fas fa-chart-line"></i>'
+icon: '<i class="fas fa-layer-group"></i>'
 layout: service
 ---
 

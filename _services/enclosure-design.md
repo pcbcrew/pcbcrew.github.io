@@ -1,6 +1,6 @@
 ---
 title: "3D Enclosure Design"
-icon: '<i class="fas fa-anchor"></i>'
+icon: '<i class="fas fa-cube"></i>'
 layout: service
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Full Product Development"
-icon: '<i class="fas fa-laptop-code"></i>'
+icon: '<i class="fas fa-projector"></i>'
 layout: service
 ---
 

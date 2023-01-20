@@ -1,6 +1,6 @@
 ---
 title: "Schematics & PCB Design"
-icon: '<i class="fas fa-bezier-curve"></i>'
+icon: '<i class="fas fa-brain-circuit"></i>'
 layout: service
 ---
 
