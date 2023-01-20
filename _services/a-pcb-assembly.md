@@ -1,5 +1,5 @@
 ---
-title: "PCB Assembly"
+title: "PCB Fabrication & Assembly"
 icon: '<i class="fas fa-layer-group"></i>'
 layout: service
 ---
