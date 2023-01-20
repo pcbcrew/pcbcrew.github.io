@@ -1,8 +1,8 @@
 title: 'PCBCrew'
-email: 'tortoizthemes@gmail.com'
+email: 'pcbcrew@outlook.com'
 description: China PCB Assembly, Design, Manufacturing
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://pcbcrew.com' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://pcbcrew.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 #General Settings
 facebook_url: 'https://facebook.com/tortoizthemes'
