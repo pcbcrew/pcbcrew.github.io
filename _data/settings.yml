@@ -52,7 +52,7 @@ portfolios_settings:
     link: "#"
 
 cta_settings:  
-  title: We Yransfer Your Idea Into Product
+  title: We Transfer Your Idea Into Product
   description: You may not have the schematic and PCB design. We develop the hardware to make your own inventions born. Architecture, schematics, 3D enclosure for injection molding, and more!
   image: /assets/images/cta-text.png
   button:
@@ -133,7 +133,3 @@ pricings_settings:
       lowerlistitem:
         - item: Game Design & DV
         - item: Computer Hardware
-      
-
-
-
