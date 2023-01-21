@@ -3,7 +3,7 @@ layout: post
 title: "Top 10 Chinese PCBA manufactueres in 2022"
 date: 2022-01-03 09:16:35 +0600
 categories: [jekyll]
-post_image: "/assets/images/blog/top-10.jpg"
+post_image: "/assets/images/blog/top-10.png"
 author: Pottie
 ---
 
