@@ -4,7 +4,7 @@ title:  "How to pick the best PCBA manufacturer for you"
 date:   2022-11-01 09:16:35 +0600
 categories: [jekyll]
 post_image: "/assets/images/blog/pcba-factory.png"
-author: Tortoiz
+author: Pottie
 ---
 
 ## What factors to consider
