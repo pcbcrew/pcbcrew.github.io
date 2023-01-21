@@ -1,12 +1,11 @@
 ---
 layout: post
-title: A short summary of EasyEDA and some other PCB design softwares
-date: 2022-10-21
+title: "A short summary of EasyEDA and some other PCB design softwares"
+date: 2022-10-21 08:25:10 +0600
 categories: [jekyll]
-post_image: "/assets/images/blog/05.jpg"
+post_image: "/assets/images/blog/06.jpg"
 author: Tortoiz
 ---
-
 There are many PCB design software options available, some of the most popular include:
 
 * Altium Designer: A paid software that offers a wide range of features for PCB design, including schematic capture, PCB layout, and FPGA design.
