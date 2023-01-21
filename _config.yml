@@ -2,13 +2,13 @@ title: 'PCBCrew'
 email: 'pcbcrew@outlook.com'
 description: China PCB Assembly, Design, Manufacturing
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://pcbcrew.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://pcbcrew.com' # the base hostname & protocol for your site, e.g. http://example.com
 
 #General Settings
-facebook_url: 'https://facebook.com/tortoizthemes'
-twitter_url: 'https://twitter.com/tortoizthemes'
-behance_url: 'https://behance.com/tortoizthemes'
-instagram_url: 'https://instagram.com/tortoizthemes'
+facebook_url: 'https://facebook.com/pcbcrew'
+twitter_url: 'https://twitter.com/pcbcrew'
+behance_url: 'https://behance.com/pcbcrew'
+instagram_url: 'https://instagram.com/pcbcrew'
 logo_url: '/assets/images/logo.png'
 
 copyright_text: '&copy; 2023 PCBCrew. All Rights Reserved'
