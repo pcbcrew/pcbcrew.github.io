@@ -1,107 +1,107 @@
-teams_settings:
+teams_settings:  
   title: our team member
-  description: Meet our team members who have been worked in Hardware Development, PCB Industry, Automobile Electronics for more than 7 years
+  description: Meet Our Most Creative Engineers That Are Professional
 
-blogs_settings:
+blogs_settings:  
   title: News & blog
-  description: Latest Articles For New Project
+  description: Latest Articles For PCB & Electronics
   button:
-    name: 'view all news'
-    link: '/blog/'
+    name: "view all news"
+    link: "/blog/"
 
-videos_settings:
+videos_settings:  
   title: Watch Our Latest Videos
   description: Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the
-  youtube_link: 'https://www.youtube.com/watch?v=iogabydg2y0'
+  youtube_link: "https://www.youtube.com/watch?v=iogabydg2y0"
   button:
-    name: 'Learn More '
-    link: '#'
+    name: "Learn More "
+    link: "#"
 
-services_settings:
+services_settings:  
   title: About Us
-  description: Most Creative Agency For Your Project
+  description: Get Better Chinese PCBA Manufacturing & Design
 
-projects_settings:
+projects_settings:  
   title: company fact
-  description: Our Teams Achivement Journey
+  description: Our Manufacturing & Design Journey
   button:
-    name: 'get started '
-    link: '#'
+    name: "get started "
+    link: "#"
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
-      name: 'Project completed'
-      count: 6320
+      name: "PCBA order completed"
+      count: 1120
     - icon: '<i class="fas fa-life-ring"></i>'
-      name: 'Satisfied Clients'
-      count: 8563
+      name: "Schematics & PCB design"
+      count: 258
     - icon: '<i class="fas fa-trophy"></i>'
-      name: 'Awards Won'
-      count: 963
+      name: "3D enclosure design"
+      count: 122
     - icon: '<i class="fas fa-universal-access"></i>'
-      name: 'Expert Team Member'
-      count: 4975
+      name: "Full Product Development"
+      count: 48
 
-portfolios_settings:
+portfolios_settings:  
   title: About Us
-  description: Most Creative Agency For Your Project
+  description: Get Better Chinese PCBA Manufacturing & Design
   button:
-    name: 'View more'
-    link: '#'
+    name: "View more"
+    link: "#"
   button2:
-    name: 'Let’s Talk'
-    link: '#'
+    name: "Let’s Talk"
+    link: "#"
 
-cta_settings:
-  title: Have Any Creative Project
-  description: We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure
+cta_settings:  
+  title: We Transfer Your Idea Into Product
+  description: You may not have the schematic and PCB design. We develop the hardware to make your own inventions born. Architecture, schematics, 3D enclosure for injection molding, and more!
   image: /assets/images/cta-text.png
   button:
-    name: 'meet with us'
-    link: '#'
-
-textimonials_settings:
+    name: "meet with us"
+    link: "#"
+  
+textimonials_settings:  
   image: /assets/images/testimonial/1.png
   textimonial:
-    - name: 'Michele L. Racinea '
-      position: 'Web Designer'
-      text: 'Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself.'
-      image: '/assets/images/testimonial/author.png'
-    - name: 'Michele L. Racinea '
-      position: 'Web Designer'
-      text: 'Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself.'
-      image: '/assets/images/testimonial/author.png'
+    - name: "Michele L. Racinea "
+      position: "Web Designer"
+      text: "Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself."
+      image: "/assets/images/testimonial/author.png"
+    - name: "Michele L. Racinea "
+      position: "Web Designer"
+      text: "Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself."
+      image: "/assets/images/testimonial/author.png"
 
-abouts_settings:
+abouts_settings:  
   title: About Us
-  description: We turn your ideas into products
-  image: '/assets/images/about-us/1.png'
-  image2: '/assets/images/about-us/2.png'
+  description: One-stop Shop For All PCBA Manufacturing
+  image: "/assets/images/about-us/1.png"
+  image2: "/assets/images/about-us/2.png"
   text: A
-  text2: We analyse your project idea, product design requirements, or existing design. Then we help your project till success with our capabilities - PCB design and assembly, hardware design and software development, enclosure assembly and mass production.
+  text2: PCBCrew is the premier provider of custom hardware development and manufacturing solutions. We provide everything you need to create the perfect circuit board, from schematic design to PCB fabrication, assembly, and firmware/software development.
   list:
-    - item: Schematic and PCB design
-      link: '#'
-    - item: PCB Fabrication
-      link: '#'
-    - item: PCB Assembly (PCBA)
-      link: '#'
-    - item: Firmware/Software Development
-      link: '#'
-    - item: Support for Open Source Projects
-      link: '#'
+    - item: PCB Fabrication & Assembly
+      link: "#"
+    - item: Schematics & PCB Design
+      link: "#"
+    - item: 3D Enclosure Design
+      link: "#"
+    - item: Firmware Development
+      link: "#"
+    - item: Box Assembly
+      link: "#"
   button:
-    name: 'Get a quote'
-    link: '#contact'
+    name: "Contact Us"
+    link: "#contact"
 
-pricings_settings:
+pricings_settings:  
   title: our pricing
   description: Popular Pricing Plan For Creative Project
   button:
-    name: make plan
-    link: '#'
+    name: make plan 
+    link: "#"
   list:
     - name: '01 <span>basic</span>'
-      image: '/assets/images/price-icon.png'
+      image: "/assets/images/price-icon.png"
       text: '<span>$45.99/month</span>'
       listitem:
         - item: Web Design (UX/UI)
@@ -112,7 +112,7 @@ pricings_settings:
         - item: Game Design & DV
         - item: Computer Hardware
     - name: '02 <span>smart</span>'
-      image: '/assets/images/price-icon.png'
+      image: "/assets/images/price-icon.png"
       text: '<span>$65.99/month</span>'
       listitem:
         - item: Web Design (UX/UI)
@@ -123,7 +123,7 @@ pricings_settings:
         - item: Game Design & DV
         - item: Computer Hardware
     - name: '03 <span>Premium</span>'
-      image: '/assets/images/price-icon.png'
+      image: "/assets/images/price-icon.png"
       text: '<span>$103.99/month</span>'
       listitem:
         - item: Web Design (UX/UI)

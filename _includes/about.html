@@ -17,12 +17,11 @@
                         <p>{{ site.data.settings.abouts_settings.text2 }}</p>
                     </div>
                     <ul class="about-menu">
-                        {% for list in site.data.settings.abouts_settings.list %}
-                        <li><a href="{{ list.link }}"><i class="fas fa-check"></i>{{ list.item }}</a></li>
-                        {% endfor %}
+						{% for list in site.data.settings.abouts_settings.list %}
+                        <li><a href="{{ list.link }}"><i class="fas fa-check"></i>{{ list.item }}</a></li>    
+						{% endfor %}
                     </ul>
-                    <a href="{{ site.data.settings.abouts_settings.button.link }}" class="btn about-btn">{{
-                        site.data.settings.abouts_settings.button.name }} <i class="fa fa-arrow-right"></i></a>
+                    <a href="{{ site.data.settings.abouts_settings.button.link }}" class="btn about-btn">{{ site.data.settings.abouts_settings.button.name }} <i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
