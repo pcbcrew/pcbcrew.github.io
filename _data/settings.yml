@@ -18,32 +18,32 @@ videos_settings:
     link: '#'
 
 services_settings:
-  title: About Us
-  description: Most Creative Agency For Your Project
+  title: PCBCrew
+  description: An all-in-one PCB solution for your needs…
 
 projects_settings:
-  title: company fact
-  description: Our Teams Achivement Journey
+  title: PCBCrew
+  description: Our journey so far…
   button:
     name: 'get started '
     link: '#'
   counter:
     - icon: '<i class="fas fa-rocket"></i>'
-      name: 'Project completed'
+      name: 'Completed Products'
       count: 6320
     - icon: '<i class="fas fa-life-ring"></i>'
       name: 'Satisfied Clients'
       count: 8563
-    - icon: '<i class="fas fa-trophy"></i>'
-      name: 'Awards Won'
-      count: 963
-    - icon: '<i class="fas fa-universal-access"></i>'
-      name: 'Expert Team Member'
-      count: 4975
+    - icon: '<i class="fas fa-box"></i>'
+      name: 'Unique Designs'
+      count: 25
+    - icon: '<i class="fas fa-hands"></i>'
+      name: 'Global Partners'
+      count: 5
 
 portfolios_settings:
-  title: About Us
-  description: Most Creative Agency For Your Project
+  title: Our projects
+  description: Here are few of our proud products…
   button:
     name: 'View more'
     link: '#'
@@ -56,7 +56,7 @@ cta_settings:
   description: We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure
   image: /assets/images/cta-text.png
   button:
-    name: 'meet with us'
+    name: 'Schedule a call'
     link: '#'
 
 textimonials_settings:
