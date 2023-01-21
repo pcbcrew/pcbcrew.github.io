@@ -1,31 +1,33 @@
 ---
 layout: post
-title: "Submitting Forms Without Reloadin The Page"
+title: "A short summary of EasyEDA and some other PCB design softwares"
 date: 2020-06-04 09:16:35 +0600
 categories: [jekyll]
 post_image: "/assets/images/blog/06.jpg"
-author: Tortoiz
+author: Pottie
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+There are many PCB design software options available, some of the most popular include:
 
-Jekyll requires blog post files to be named according to the following format:
+* Altium Designer: A paid software that offers a wide range of features for PCB design, including schematic capture, PCB layout, and FPGA design.
+* Eagle PCB: A PCB design software that offers both free and paid versions, with the free version being limited in terms of the number of layers and board size.
+* KiCad: An open-source software for PCB design, offering features such as schematic capture, PCB layout, and 3D visualization.
+* OrCAD: A paid software that provides a comprehensive set of tools for schematic capture, PCB layout, and FPGA design.
+* DipTrace: A paid software that offers schematic capture, PCB layout, and 3D visualization features.
+* CircuitMaker: A free, web-based PCB design software that is community-driven and open-source with a large library of parts.
+*Proteus: A software package for computer-aided design of electronic circuits, it offers PCB design and simulation capabilities, not as advanced as the other PCB software's mentioned but is often used for educational purposes.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## What is EasyEDA
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+EasyEDA is a web-based PCB design software that offers a range of features for designing and simulating electronic circuits. Some of its key features include schematic capture, PCB layout, and integrated simulation tools. It also has a built-in library with a wide range of components and supports for importing and exporting designs in various formats. It also offers collaborative features, allowing multiple users to work on a design simultaneously.
 
-Jekyll also offers powerful support for code snippets:
+EasyEDA is a good option for hobbyists and students as it offers a free version with limited capabilities and a paid version for professional use. It is also a good alternative for those who prefer web-based software and have limited resources for installing and running software locally.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## EasyEDA Standard vs EasyEDA Professional
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+EasyEDA offers two different versions of its software: Standard and Professional. The main difference between the two is the level of functionality and access to features.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The Standard version is a free version that provides basic functionality for schematic capture, PCB layout, and simulation. It has some limitations on the number of sheets, size and layers of the PCB and the number of components in the schematic.
+
+The Professional version is a paid version that offers access to advanced features such as 3D visualization, design rule checking, and more. It also provides access to a larger component library, and removes the limitations on the number of sheets, size, layers and components.
+
+In summary, the EasyEDA Professional version is designed for more experienced users and offers more advanced features, while the EasyEDA Standard version is intended for hobbyists and students and offers more basic features.
