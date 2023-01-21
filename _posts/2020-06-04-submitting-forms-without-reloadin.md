@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A short summary of EasyEDA and some other PCB design softwares"
-date: 2020-06-04 09:16:35 +0600
+date: 2022-10-22 09:16:35 +0600
 categories: [jekyll]
-post_image: "/assets/images/blog/06.jpg"
+post_image: "/assets/images/blog/pcb-design-software.jpg"
 author: Pottie
 ---
 There are many PCB design software options available, some of the most popular include:
