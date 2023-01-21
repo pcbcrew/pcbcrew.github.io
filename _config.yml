@@ -1,6 +1,6 @@
-title: 'PCBCrew'
-email: 'tortoizthemes@gmail.com'
-description: Official website of PCB Crew
+title: PCBCrew
+email: pcbcrew@outlook.com
+description: Hardware Design, PCB Assembly and Manufacturing
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://pcbcrew.com' # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,12 +9,12 @@ facebook_url: 'https://facebook.com/tortoizthemes'
 twitter_url: 'https://twitter.com/tortoizthemes'
 behance_url: 'https://behance.com/tortoizthemes'
 instagram_url: 'https://instagram.com/tortoizthemes'
-logo_url: '/assets/images/logo.png'
+logo_url: '/assets/images/logo.svg'
 
-copyright_text: '&copy; 2022 Livvic. All Rights Reserved'
-phone_number: '+012 (345) 77 999'
-address: '55 New Sodor Road, USA'
-office_time: 'Sun - Friday : 10 am - 08 pm'
+copyright_text: '&copy Copyright 2023 PCBCrew | All rights reserved.'
+phone_number: '(+86) 130 224 81 053'
+address: 'Shenzhen, Guangdong 518100, CN'
+office_time: 'Mon - Friday : 10 am - 08 pm'
 
 # Build settings
 theme: minima
