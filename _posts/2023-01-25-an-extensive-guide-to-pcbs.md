@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "An Extensive Guide to PCBs"
+title:  "An Extensive Guide to PCBs: All You Need To Know About"
 date:   2022-11-01 09:16:35 +0600
 categories: [pcba]
-post_image: "/assets/images/blog/pcba-factory.png"
+post_image: "/assets/images/blog/pcba.jpg"
 author: Charles
 ---
 
