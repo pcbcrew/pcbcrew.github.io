@@ -3,7 +3,7 @@ layout: post
 title:  "An Extensive Guide to PCBs: All You Need To Know About"
 date:   2022-11-01 09:16:35 +0600
 categories: [pcba]
-post_image: "/assets/images/blog/pcba.jpg"
+post_image: "/assets/images/blog/pcb.jpg"
 author: Charles
 ---
 
